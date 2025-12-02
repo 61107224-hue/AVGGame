@@ -44,9 +44,73 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5927\u91CE\u72FC"
+      - 
+      - "\u5931\u671B"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - "\u5927\u91CE\u72FC-\u5931\u671B.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u5F97\u901E"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - "\u5927\u91CE\u72FC-\u5F97\u901E.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u5C0F\u7D05\u5E3D"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - "\u5C0F\u7D05\u5E3D-\u4E00\u822C.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u9A5A\u5687"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - "\u5C0F\u7D05\u5E3D-\u9A5A\u5687.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61107224/Scenarios/61107224.xls:Character
     type: 1
-    textLength: 166
+    textLength: 228
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: e93cc25fc8444a949996c5bab1963d51, type: 3}
   - rows:
