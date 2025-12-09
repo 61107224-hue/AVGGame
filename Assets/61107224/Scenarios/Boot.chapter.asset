@@ -136,9 +136,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\u5716"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u80CC\u666F\u5716.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61107224/Scenarios/61107224.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 124
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: e93cc25fc8444a949996c5bab1963d51, type: 3}
   - rows:
@@ -179,9 +194,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6"
+      - Character
+      - -450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3"
+      - Character
+      - 450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61107224/Scenarios/61107224.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 159
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: e93cc25fc8444a949996c5bab1963d51, type: 3}
   - rows:
